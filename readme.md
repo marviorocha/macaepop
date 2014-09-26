@@ -3,6 +3,12 @@ Projeto Macaé POP www.macaepop.com.br
 
 Site desenvolvido com laravel 4.2
 
+===========================================
+
+Desenvolvido por: Marvio Rocha
+
+
+
 LICENCE
 
 
